@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash">
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman">
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx">
-  <img src="docs/atlassian.svg" width="48" height="48" alt="Atlassian">
+  <img src="https://raw.githubusercontent.com/GustavoN-S/GustavoN-S/main/docs/atlassian.svg" width="48" height="48" alt="Atlassian">
 </p>
 
 <br>
