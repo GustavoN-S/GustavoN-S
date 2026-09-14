@@ -14,18 +14,20 @@
 
 ## Sobre mim
 
-Desenvolvedor fullstack desde 2020, 24 anos. Nesses anos construí o software que empresas usam
-todo dia: SaaS, CRMs, ERPs e integrações entre plataformas, com arquitetura pensada para crescer
-sem retrabalho.
+Desenvolvedor Full Stack desde 2020. Desenvolvo SaaS, CRMs, ERPs e aplicações com inteligência
+artificial integrada ao produto, cuidando da arquitetura, do desenvolvimento e da infraestrutura
+na AWS.
 
-Hoje meu foco é levar **inteligência artificial** para dentro desses produtos: integrações com LLMs,
-agentes, automações com IA generativa e funcionalidades que transformam modelos de linguagem em
-resultado concreto para o negócio.
+Trabalho com diferentes bancos de dados, LLMs, agentes, automações e IA generativa, unindo
+engenharia de software e inteligência artificial em produtos completos e bem estruturados.
 
-- Foco em IA aplicada, LLMs e IA generativa
+Sou fã de Clean Code: código que qualquer pessoa do time consegue ler, testar e evoluir sem
+precisar de um manual.
+
 - Backend com Node.js, PHP/Laravel, Python e APIs REST
 - Frontend com React, TypeScript, JavaScript, HTML e CSS
-- Bancos relacionais e infraestrutura na AWS
+- PostgreSQL, MySQL e infraestrutura na AWS
+- IA aplicada: LLMs, agentes, automações e IA generativa
 
 ## Tecnologias
 
@@ -91,18 +93,19 @@ dados com filtros e busca, responsivo e acessível. [Demo online.](https://gusta
 
 ## English
 
-Hi, I'm Gustavo. **Fullstack developer** since 2020, 24 years old. Over these years I've built the
-software companies run on every day: SaaS products, CRMs, ERPs and platform integrations, with
-architecture designed to grow without rework.
+Full Stack developer since 2020. I build SaaS products, CRMs, ERPs and applications with artificial
+intelligence integrated into the product, taking care of architecture, development and AWS
+infrastructure.
 
-My current focus is bringing **artificial intelligence** into those products: LLM integrations,
-agents, generative AI automations and features that turn language models into concrete business
-results.
+I work with different databases, LLMs, agents, automations and generative AI, combining software
+engineering and artificial intelligence into complete, well-structured products.
 
-- Applied AI, LLMs and generative AI
+I'm a Clean Code fan: code that anyone on the team can read, test and evolve without a manual.
+
 - Backend with Node.js, PHP/Laravel, Python and REST APIs
 - Frontend with React, TypeScript, JavaScript, HTML and CSS
-- Relational databases and AWS infrastructure
+- PostgreSQL, MySQL and AWS infrastructure
+- Applied AI: LLMs, agents, automations and generative AI
 
 **Featured projects**
 
