@@ -12,21 +12,25 @@
 
 </div>
 
-## Tecnologias
+<h3 align="center">Languages &amp; Frameworks</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,php,laravel,python,lua&theme=dark&perline=5" alt="JavaScript, TypeScript, HTML, CSS, Node.js, React, PHP, Laravel, Python, Lua"></a>
+</p>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,python,php,laravel,lua,postgres,mysql,aws,html,css&theme=dark&perline=7" alt="Node.js, React, TypeScript, JavaScript, Python, PHP, Laravel, Lua, PostgreSQL, MySQL, AWS, HTML, CSS"></a>
+<h3 align="center">Databases &amp; Cloud</h3>
 
-</div>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark&perline=5" alt="PostgreSQL, MySQL, AWS"></a>
+</p>
 
-## Ferramentas
+<h3 align="center">Tools &amp; Platforms</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows,bash,postman,nginx&theme=dark&perline=5" alt="Git, GitHub, VS Code, Docker, Linux, Windows, Bash, Postman, Nginx"></a>
+</p>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,github,bash,postman,nginx&theme=dark&perline=8" alt="VS Code, Linux, Docker, Git, GitHub, Bash, Postman, Nginx"></a>
-
-</div>
+<br>
 
 ## Projetos em destaque
 
