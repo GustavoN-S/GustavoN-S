@@ -6,7 +6,7 @@
 
 **Desenvolvedor Fullstack** · Soluções com IA generativa e LLMs
 
-<a href="#english">🇺🇸 English version</a>
+<a href="#english">English version ↓</a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="">
 
@@ -47,33 +47,34 @@ negócio.
 
 ## Projetos em destaque
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/GustavoN-S/extrator-de-leads">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoN-S&repo=extrator-de-leads&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Extrator de Leads">
-</a>
-<a href="https://github.com/GustavoN-S/bestofboston-storefront">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoN-S&repo=bestofboston-storefront&theme=github_dark&bg_color=0d1117&hide_border=true" alt="Best of Boston Storefront">
-</a>
+### [Extrator de Leads](https://github.com/GustavoN-S/extrator-de-leads)
 
-</div>
+Extensão de navegador que extrai leads do Google Maps e prioriza empresas sem site. Score
+comercial, WhatsApp pronto para 96 países e painel com filtros e exportação CSV/JSON.
 
-**Extrator de Leads** · Extensão de navegador que extrai leads do Google Maps e prioriza empresas sem
-site, com score comercial, WhatsApp pronto para 96 países e painel com exportação CSV/JSON.
-JavaScript puro, Manifest V3, sem build.
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)
+![Sem build](https://img.shields.io/badge/sem_build-0d1117?style=flat-square)
 
-**Best of Boston Storefront** · Front-end completo de site para uma loja física americana. Sete
-páginas, catálogo orientado a dados com filtros e busca, responsivo e acessível. HTML, CSS e
-JavaScript puros, sem dependências.
+</td>
+<td width="50%" valign="top">
 
-## Estatísticas
+### [Best of Boston Storefront](https://github.com/GustavoN-S/bestofboston-storefront)
 
-<div align="center">
+Front-end completo de site para uma loja física americana. Sete páginas, catálogo orientado a
+dados com filtros e busca, responsivo e acessível. [Demo online.](https://gustavon-s.github.io/bestofboston-storefront/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=GustavoN-S&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Estatísticas do GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoN-S&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&langs_count=8" height="165" alt="Linguagens mais usadas">
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
