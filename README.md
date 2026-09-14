@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="">
 
-# Gustavo Nascimento
+# Hi, I'm Gustavo Nascimento
 
 <a href="https://github.com/GustavoN-S"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=40&lines=Desenvolvedor+Full+Stack;Cloud+%26+AI" alt="Desenvolvedor Full Stack · Cloud & AI"></a>
 
@@ -15,19 +15,41 @@
 <h3 align="center">Languages &amp; Frameworks</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,php,laravel,python,lua&theme=dark&perline=5" alt="JavaScript, TypeScript, HTML, CSS, Node.js, React, PHP, Laravel, Python, Lua"></a>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js">
+  <br>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React">
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP">
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python">
+  <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="48" height="48" alt="Lua">
 </p>
 
 <h3 align="center">Databases &amp; Cloud</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark&perline=5" alt="PostgreSQL, MySQL, AWS"></a>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS">
 </p>
 
 <h3 align="center">Tools &amp; Platforms</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows,bash,postman,nginx&theme=dark&perline=5" alt="Git, GitHub, VS Code, Docker, Linux, Windows, Bash, Postman, Nginx"></a>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux">
+  <br>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman">
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48" height="48" alt="Nginx">
+  <img src="docs/atlassian.svg" width="48" height="48" alt="Atlassian">
 </p>
 
 <br>
