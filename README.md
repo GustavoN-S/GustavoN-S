@@ -24,7 +24,7 @@ engenharia de software e inteligência artificial em produtos completos e bem es
 Sou fã de Clean Code: código que qualquer pessoa do time consegue ler, testar e evoluir sem
 precisar de um manual.
 
-- Backend com Node.js, PHP/Laravel, Python e APIs REST
+- Backend com Node.js, PHP/Laravel, Python, Lua e APIs REST
 - Frontend com React, TypeScript, JavaScript, HTML e CSS
 - PostgreSQL, MySQL e infraestrutura na AWS
 - IA aplicada: LLMs, agentes, automações e IA generativa
@@ -33,20 +33,15 @@ precisar de um manual.
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,react,ts,js,python,php,laravel,lua,postgres,mysql,aws,html,css&theme=dark&perline=7" alt="Node.js, React, TypeScript, JavaScript, Python, PHP, Laravel, Lua, PostgreSQL, MySQL, AWS, HTML, CSS"></a>
 
-![API REST](https://img.shields.io/badge/API_REST-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=1572B6)
+</div>
+
+## Ferramentas
+
+<div align="center">
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,linux,docker,git,github,bash,postman,nginx&theme=dark&perline=8" alt="VS Code, Linux, Docker, Git, GitHub, Bash, Postman, Nginx"></a>
 
 </div>
 
@@ -102,7 +97,7 @@ engineering and artificial intelligence into complete, well-structured products.
 
 I'm a Clean Code fan: code that anyone on the team can read, test and evolve without a manual.
 
-- Backend with Node.js, PHP/Laravel, Python and REST APIs
+- Backend with Node.js, PHP/Laravel, Python, Lua and REST APIs
 - Frontend with React, TypeScript, JavaScript, HTML and CSS
 - PostgreSQL, MySQL and AWS infrastructure
 - Applied AI: LLMs, agents, automations and generative AI
