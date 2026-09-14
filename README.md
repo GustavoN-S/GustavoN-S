@@ -14,16 +14,17 @@
 
 ## Sobre mim
 
-Tenho 24 anos e trabalho como desenvolvedor desde 2020. Sou fullstack: cuido do backend, do banco,
-da infraestrutura e da interface, do primeiro commit ao deploy.
+Tenho 24 anos e programo profissionalmente desde 2020. Sou fullstack e, nesse caminho, construí
+sistemas que precisam aguentar o dia a dia de uma empresa: SaaS, CRMs, ERPs e integrações entre
+plataformas, sempre pensando em escalar sem virar dor de cabeça depois.
 
-Hoje meu foco é construir **soluções com inteligência artificial**: integrações com LLMs, agentes,
-automações com IA generativa e produtos que colocam esses modelos para resolver problemas reais de
-negócio.
+Hoje meu foco é levar **inteligência artificial** para dentro desses produtos: integrações com LLMs,
+agentes, automações com IA generativa e funcionalidades que transformam modelos de linguagem em
+resultado concreto para o negócio.
 
 - 🧠 Foco em IA aplicada, LLMs e IA generativa
 - ⚙️ Backend com Node.js, PHP/Laravel e Python
-- 🎨 Frontend com TypeScript, JavaScript, HTML e CSS
+- 🎨 Frontend com React, TypeScript, JavaScript, HTML e CSS
 - ☁️ Bancos relacionais e infraestrutura na AWS
 
 ## Tecnologias
@@ -31,6 +32,7 @@ negócio.
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -88,15 +90,17 @@ dados com filtros e busca, responsivo e acessível. [Demo online.](https://gusta
 
 ## English
 
-Hi, I'm Gustavo. I'm 24 and I've been working as a developer since 2020. I'm a **fullstack
-developer**: backend, databases, infrastructure and UI, from the first commit to deployment.
+Hi, I'm Gustavo. I'm 24 and I've been coding professionally since 2020. I'm a **fullstack
+developer** and along the way I've built systems that companies rely on every day: SaaS products,
+CRMs, ERPs and platform integrations, always designed to scale without becoming a headache later.
 
-My current focus is building **AI-powered solutions**: LLM integrations, agents, generative AI
-automations and products that put these models to work on real business problems.
+My current focus is bringing **artificial intelligence** into those products: LLM integrations,
+agents, generative AI automations and features that turn language models into concrete business
+results.
 
 - 🧠 Applied AI, LLMs and generative AI
 - ⚙️ Backend with Node.js, PHP/Laravel and Python
-- 🎨 Frontend with TypeScript, JavaScript, HTML and CSS
+- 🎨 Frontend with React, TypeScript, JavaScript, HTML and CSS
 - ☁️ Relational databases and AWS infrastructure
 
 **Featured projects**
