@@ -16,13 +16,10 @@
 
 Desenvolvedor Full Stack desde 2020. Desenvolvo SaaS, CRMs, ERPs e aplicações com inteligência
 artificial integrada ao produto, cuidando da arquitetura, do desenvolvimento e da infraestrutura
-na AWS.
+em nuvem.
 
 Trabalho com diferentes bancos de dados, LLMs, agentes, automações e IA generativa, unindo
 engenharia de software e inteligência artificial em produtos completos e bem estruturados.
-
-Sou fã de Clean Code: código que qualquer pessoa do time consegue ler, testar e evoluir sem
-precisar de um manual.
 
 - Backend com Node.js, PHP/Laravel, Python, Lua e APIs REST
 - Frontend com React, TypeScript, JavaScript, HTML e CSS
@@ -89,13 +86,11 @@ dados com filtros e busca, responsivo e acessível. [Demo online.](https://gusta
 ## English
 
 Full Stack developer since 2020. I build SaaS products, CRMs, ERPs and applications with artificial
-intelligence integrated into the product, taking care of architecture, development and AWS
+intelligence integrated into the product, taking care of architecture, development and cloud
 infrastructure.
 
 I work with different databases, LLMs, agents, automations and generative AI, combining software
 engineering and artificial intelligence into complete, well-structured products.
-
-I'm a Clean Code fan: code that anyone on the team can read, test and evolve without a manual.
 
 - Backend with Node.js, PHP/Laravel, Python, Lua and REST APIs
 - Frontend with React, TypeScript, JavaScript, HTML and CSS
