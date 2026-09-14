@@ -16,11 +16,6 @@
 
 Desenvolvedor Full Stack desde 2020. SaaS, CRMs, ERPs e aplicações com IA integrada ao produto.
 
-- Backend com Node.js, PHP/Laravel, Python, Lua e APIs REST
-- Frontend com React, TypeScript, JavaScript, HTML e CSS
-- PostgreSQL, MySQL e infraestrutura na AWS
-- IA aplicada: LLMs, agentes, automações e IA generativa
-
 ## Tecnologias
 
 <div align="center">
@@ -81,11 +76,6 @@ dados com filtros e busca, responsivo e acessível. [Demo online.](https://gusta
 ## English
 
 Full Stack developer since 2020. SaaS, CRMs, ERPs and applications with AI built into the product.
-
-- Backend with Node.js, PHP/Laravel, Python, Lua and REST APIs
-- Frontend with React, TypeScript, JavaScript, HTML and CSS
-- PostgreSQL, MySQL and AWS infrastructure
-- Applied AI: LLMs, agents, automations and generative AI
 
 **Featured projects**
 
