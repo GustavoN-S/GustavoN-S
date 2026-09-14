@@ -12,10 +12,6 @@
 
 </div>
 
-## Sobre mim
-
-Desenvolvedor Full Stack desde 2020. SaaS, CRMs, ERPs e aplicações com IA integrada ao produto.
-
 ## Tecnologias
 
 <div align="center">
