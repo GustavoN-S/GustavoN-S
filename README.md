@@ -22,10 +22,10 @@ Hoje meu foco é levar **inteligência artificial** para dentro desses produtos:
 agentes, automações com IA generativa e funcionalidades que transformam modelos de linguagem em
 resultado concreto para o negócio.
 
-- 🧠 Foco em IA aplicada, LLMs e IA generativa
-- ⚙️ Backend com Node.js, PHP/Laravel, Python e APIs REST
-- 🎨 Frontend com React, TypeScript, JavaScript, HTML e CSS
-- ☁️ Bancos relacionais e infraestrutura na AWS
+- Foco em IA aplicada, LLMs e IA generativa
+- Backend com Node.js, PHP/Laravel, Python e APIs REST
+- Frontend com React, TypeScript, JavaScript, HTML e CSS
+- Bancos relacionais e infraestrutura na AWS
 
 ## Tecnologias
 
@@ -99,10 +99,10 @@ My current focus is bringing **artificial intelligence** into those products: LL
 agents, generative AI automations and features that turn language models into concrete business
 results.
 
-- 🧠 Applied AI, LLMs and generative AI
-- ⚙️ Backend with Node.js, PHP/Laravel, Python and REST APIs
-- 🎨 Frontend with React, TypeScript, JavaScript, HTML and CSS
-- ☁️ Relational databases and AWS infrastructure
+- Applied AI, LLMs and generative AI
+- Backend with Node.js, PHP/Laravel, Python and REST APIs
+- Frontend with React, TypeScript, JavaScript, HTML and CSS
+- Relational databases and AWS infrastructure
 
 **Featured projects**
 
