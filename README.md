@@ -97,7 +97,15 @@ dados com filtros e busca, responsivo e acessível. [Demo online.](https://gusta
 
 ## English
 
-Full Stack developer since 2020. SaaS, CRMs, ERPs and applications with AI built into the product.
+Full Stack developer with over 4 years of experience building SaaS products, CRMs, ERPs and
+applications with AI built into the product.
+
+On the backend I work with Node.js, PHP/Laravel and Python, designing REST APIs on top of
+PostgreSQL and MySQL. On the frontend, React and TypeScript. Infrastructure runs on AWS, with
+Docker and Linux as the everyday toolkit.
+
+On the AI side, I integrate LLMs, agents and generative AI into real products: automations,
+assistants and features that turn language models into concrete business results.
 
 **Featured projects**
 
