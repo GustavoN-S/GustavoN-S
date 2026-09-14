@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="">
 
-# Olá, eu sou o Gustavo
+# Gustavo Nascimento
 
-<a href="https://github.com/GustavoN-S"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=40&lines=Desenvolvedor+Fullstack;Solu%C3%A7%C3%B5es+com+IA+generativa+e+LLMs;Node.js+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Python;API+REST+%C2%B7+PostgreSQL+%C2%B7+AWS" alt="Desenvolvedor Fullstack · Soluções com IA generativa e LLMs"></a>
+<a href="https://github.com/GustavoN-S"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=520&height=40&lines=Desenvolvedor+Full+Stack;Cloud+%26+AI" alt="Desenvolvedor Full Stack · Cloud & AI"></a>
 
 <a href="#english">English version ↓</a>
 
